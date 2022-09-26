@@ -1,5 +1,3 @@
-package test;
-
 import org.junit.jupiter.api.*;
 import ru.netology.entity.Country;
 import ru.netology.entity.Location;
